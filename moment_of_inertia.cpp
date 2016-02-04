@@ -6,7 +6,7 @@
 
 #include "moment_of_inertia.h"
 
-using namespace pebcl;
+using namespace PEBIECCL;
 
 MOIBoundingBox::MOIBoundingBox(pcl::PointCloud<pcl::PointXYZRGB>::Ptr cloud)
 {

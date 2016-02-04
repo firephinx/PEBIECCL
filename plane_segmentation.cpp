@@ -6,7 +6,7 @@
 
 #include "plane_segmentation.h"
 
-using namespace pebcl;
+using namespace PEBIECCL;
 
 planeSegmentor::planeSegmentor(pcl::PointCloud<pcl::PointXYZRGB>::Ptr cloud)
 {

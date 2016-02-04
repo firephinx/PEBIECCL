@@ -15,7 +15,7 @@
 #include <pcl/segmentation/sac_segmentation.h>
 #include <pcl/exceptions.h>
 
-namespace pebcl
+namespace PEBIECCL
 {
 	class planeSegmentor
 	{

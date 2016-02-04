@@ -15,7 +15,7 @@
 #include <pcl/sample_consensus/sac_model_plane.h>
 #include <boost/thread/thread.hpp>
 
-namespace pebcl
+namespace PEBIECCL
 {
 	class MOIBoundingBox
 	{
