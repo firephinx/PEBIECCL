@@ -1,3 +1,9 @@
+/* 
+ * plane_segmentation.cpp
+ *
+ * Creation of the segmentation object
+ */
+
 #include "plane_segmentation.h"
 
 using namespace pebcl;
@@ -36,7 +42,7 @@ planeSegmentor::planeSegmentor(pcl::PointCloud<pcl::PointXYZRGB>::Ptr cloud)
 
 }
 
-
+// Destructor
 planeSegmentor::~planeSegmentor()
 {
 

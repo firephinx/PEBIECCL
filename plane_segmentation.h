@@ -1,6 +1,8 @@
-/**
-* plane_segmentation.h
-*/
+/*
+ * plane_segmentation.h
+ *
+ * Header file for the object class planeSegmentor
+ */
 
 #pragma once
 

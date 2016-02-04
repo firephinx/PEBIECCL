@@ -1,6 +1,8 @@
-/**
-* planeInfo.cpp
-*/
+/*
+ * planeInfo.cpp
+ * 
+ * Simple Object that stores each plane's characteristics
+ */
 
 #include "planeInfo.h"
 

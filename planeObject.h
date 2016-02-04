@@ -1,6 +1,8 @@
-/**
-* planeObject.h
-*/
+/*
+ * planeObject.h
+ *
+ * Header file for the class planeObject
+ */
 
 #pragma once
 

@@ -1,6 +1,8 @@
-/**
-* planeInfo.h
-*/
+/*
+ * planeInfo.h
+ *
+ * Header file for the object class planeInfo
+ */
 
 #pragma once
 

@@ -1,3 +1,9 @@
+/*
+ * moment_of_inertia.cpp
+ *
+ * Creates a Moment of inertia bounding box given a point cloud
+ */
+
 #include "moment_of_inertia.h"
 
 using namespace pebcl;

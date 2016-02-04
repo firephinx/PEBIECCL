@@ -1,6 +1,8 @@
-/**
-* moment_of_inertia.h
-*/
+/*
+ * moment_of_inertia.h
+ *
+ * Header file for the class MOIBoundingBox
+ */
 
 #pragma once
 
@@ -19,12 +21,13 @@ namespace pebcl
 	{
 		public:
 
-			// Constructors for the planeSegmentor
+			// Constructors for the MOIBoundingBox
 			MOIBoundingBox(pcl::PointCloud<pcl::PointXYZRGB>::Ptr cloud);
 
-			// Destructor for planeSegmentor
+			// Destructor for MOIBoundingBox
 			~MOIBoundingBox();
 
+			// Class Characteristics
 			std::vector <float> moment_of_inertia;
 			std::vector <float> eccentricity;
 			pcl::PointXYZRGB min_point_AABB;

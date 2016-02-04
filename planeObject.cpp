@@ -1,6 +1,8 @@
 /*
-* planeObject.cpp
-*/
+ * planeObject.cpp
+ *
+ * Implement of the class planeObject
+ */
 
 #include "planeObject.h"
 
